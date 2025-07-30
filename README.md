@@ -1,7 +1,7 @@
 # 🌱 Vertical Farming Automation System
 
 An intelligent microcontroller-based automation solution for vertical farming applications, featuring comprehensive sensor monitoring, automated irrigation control, climate management, and safety systems.
-
+![WhatsApp Image 2024-12-31 at 15 00 45_c5cf7dbb](https://github.com/user-attachments/assets/e882fb73-dd66-4bea-ace5-160329231089)
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
