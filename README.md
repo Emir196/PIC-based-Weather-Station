@@ -142,8 +142,6 @@ This project implements a complete vertical farming automation system using the 
    - `ds18b20.c` - DS18B20 temperature sensor library
 4. Compile and program the PIC18F452
 
-### Circuit Diagram
-*(Include your circuit schematic here - can be created with Fritzing, KiCad, or hand-drawn)*
 
 ## 📖 Usage
 
