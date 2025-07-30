@@ -134,7 +134,7 @@ This project implements a complete vertical farming automation system using the 
 ### Software Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/vertical-farming-pic18f452.git
+   git clone https://github.com/Emir196/vertical-farming-pic18f452.git
    ```
 2. Open the project in MPLAB X IDE
 3. Include required libraries:
