@@ -1,0 +1,16 @@
+[PROJECT]
+Target=C:\Users\demir\Documents\Weather Station.hex
+Processor_Text=PIC18F452
+CCSVerions=5.015
+Compiler=PCH
+[Target Data]
+FileList=Weather Station.c
+[Directories]
+Include=
+[C:\Users\demir\Documents\Weather Station]
+Type=4
+[mru-list]
+1=Weather Station.c
+[Units]
+Count=1
+1=Weather Station (main)
